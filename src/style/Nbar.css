@@ -1,0 +1,102 @@
+.nbar {
+    width: 100%;
+    height: 100px;
+    background-color: 	#FF0000;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .nbar .lSide {
+    flex: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+  }
+  
+  .nbar .lSide img {
+    width: 100px;
+  }
+  
+  .nbar .rSide {
+    flex: 10%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .nbar a {
+    color: white;
+    text-decoration: none;
+    margin: 30px;
+  }
+  
+  .nbar .rSide button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .nbar .rSide svg {
+    font-size: 50px;
+  }
+  
+  .nbar #open {
+    padding-left: 0px;
+  }
+  .nbar #open img {
+    display: none;
+  }
+  
+  .nbar #close img {
+    display: inherit;
+  }
+  
+  .nbar #open .hiddenLinks {
+    display: inherit;
+    margin-left: 30px;
+  }
+  
+  .nbar #close .hiddenLinks {
+    display: none;
+  }
+  
+  .nbar #open a {
+    width: 70px;
+    margin: 5px;
+  }
+  @media only screen and (max-width: 900px) {
+    .nbar .rSide a {
+      width: 70px;
+    }
+    .nbar .lSide {
+      padding-left: 50px;
+    }
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .nbar .rSide a {
+      display: none;
+    }
+  
+    .nbar .rSide {
+      justify-content: flex-end;
+      padding-right: 50px;
+    }
+  
+    .nbar .rSide button {
+      display: inherit;
+    }
+  }
+  
+  @media only screen and (min-width: 600px) {
+    .nbar .rSide button {
+      display: none;
+    }
+  
+    .hiddenLinks {
+      display: none;
+    }
+  }
