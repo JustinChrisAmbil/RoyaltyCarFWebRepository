@@ -10,8 +10,8 @@ return (
             </div>
             <div className="rSide"/>
                 <Link to ="/"> Home</Link>
-                <Link to ="/Catalog"> Catalog</Link>
-                <Link to ="/ Buy A Car"> Buy A Car</Link>
+                <Link to ="/catalog"> Catalog</Link>
+                <Link to ="/Inquire"> Inquire</Link>
                 
     </div>
 );
