@@ -7,7 +7,7 @@ import  Mase1 from "../Images/maserati_ghibli.jpg";
 
 export const CatalogList = [
 {
-    model:"Ferrari 296GTB",
+    model:"Ferrari 296 GTB",
     image: ferarri1,
     price: 322986,
 },
@@ -36,4 +36,4 @@ export const CatalogList = [
     image:Mase1,
     price: 70000,
 },
-]
+];
