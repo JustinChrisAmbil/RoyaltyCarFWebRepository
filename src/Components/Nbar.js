@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from ' ../Images/Royalty.png';
+import Logo from "../Images/Royalty.png";
 function Nbar() {
 return (
         <div className="nbar">
