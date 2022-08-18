@@ -1,9 +1,9 @@
 import React from 'react'
 
 function HomePage() {
-return (
+  return (
     <div>Whats UP?</div>
-)
+  )
 }
 
 export default HomePage
