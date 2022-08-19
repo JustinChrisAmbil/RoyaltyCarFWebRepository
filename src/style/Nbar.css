@@ -49,20 +49,7 @@
   .nbar #open img {
     display: none;
   }
-  
-  .nbar #close img {
-    display: inherit;
-  }
-  
-  .nbar #open .hiddenLinks {
-    display: inherit;
-    margin-left: 30px;
-  }
-  
-  .nbar #close .hiddenLinks {
-    display: none;
-  }
-  
+
   .nbar #open a {
     width: 70px;
     margin: 5px;
@@ -81,14 +68,6 @@
       display: none;
     }
   
-    .nbar .rSide {
-      justify-content: flex-end;
-      padding-right: 50px;
-    }
-  
-    .nbar .rSide button {
-      display: inherit;
-    }
   }
   
   @media only screen and (min-width: 600px) {
