@@ -7,7 +7,7 @@ function Inquire() {
     <div className="inquire">
         <div className="leftSide"style={{backgroundImage: `url(${carHori})`}}>
             </div>
-        <div className="rightSide"/>
+        <div className="rightSide">
             <h1> Inquire Here </h1>
             <form id = "inquire-form" method= "POST">
                 <label htmlFor= "name"> Full Name</label>
@@ -19,7 +19,7 @@ function Inquire() {
                     <button type = "submit"> Submit</button>
             </form>
 
-
+            </div>
     </div>
   )
 }
