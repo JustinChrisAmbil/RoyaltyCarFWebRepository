@@ -2,7 +2,7 @@
   "name": "royaltycarfweb",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://JustinChrisAmbil.github.io",
+  "homepage":"https://JustinChrisAmbil.github.io/RoyaltyCarFWebRepository",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
