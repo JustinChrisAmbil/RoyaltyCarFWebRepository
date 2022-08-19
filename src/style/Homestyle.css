@@ -22,14 +22,16 @@
     font-size: 90px;
     height: 60px;
     font-weight: 50;
-    color: black;
+    color: #F7EFBA;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   }
   
   .headerContainer p {
     padding: 0;
     font-size: 40px;
     font-weight: lighter;
-    color: black;
+    color: #F7EFBA;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   }
   
   .headerContainer button {
@@ -93,4 +95,9 @@
       background-color: rgb(225, 225, 225);
       color: #121619;
     }
+
+    
+
+
+    
   }
