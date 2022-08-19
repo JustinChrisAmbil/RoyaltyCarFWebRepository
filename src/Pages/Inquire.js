@@ -8,7 +8,7 @@ function Inquire() {
         <div className="leftSide"style={{backgroundImage: `url(${carHori})`}}>
             </div>
         <div className="rightSide">
-            <h1> Inquire Here </h1>
+            <h1> Contact Info. </h1>
             <form id = "inquire-form" method= "POST">
                 <label htmlFor= "name"> Full Name</label>
                 <input name= "name" placeholder="Enter Full name ..." type = "text"/>
