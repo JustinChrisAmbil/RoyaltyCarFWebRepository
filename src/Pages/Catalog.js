@@ -6,7 +6,7 @@ import '../style/Catalog.css'
 function Catalog () {
 return (
     <div className = "catalog">
-    <h1 className = "catalogTitle"> Cars Catalog</h1>
+    <h1 className = "catalogTitle"> Car Catalog</h1>
     <div className = "catalogList">
 {CatalogList.map((catalogItem, key) => {
         return <CatalogItem
