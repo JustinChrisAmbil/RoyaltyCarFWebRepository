@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RoyaltyCarFWebRepository/static/css/main.852d7aac.css",
+    "main.js": "/RoyaltyCarFWebRepository/static/js/main.bc956369.js",
+    "static/js/787.8bfdd6c0.chunk.js": "/RoyaltyCarFWebRepository/static/js/787.8bfdd6c0.chunk.js",
+    "static/media/luxCars.jpg": "/RoyaltyCarFWebRepository/static/media/luxCars.357b4aa3c3a85d83928e.jpg",
+    "static/media/carwallpaper.jpg": "/RoyaltyCarFWebRepository/static/media/carwallpaper.ac67be43047be7587496.jpg",
+    "static/media/ferarri_296gtb.jpg": "/RoyaltyCarFWebRepository/static/media/ferarri_296gtb.0998dfa674dbfba966eb.jpg",
+    "static/media/lambo_aven.jpg": "/RoyaltyCarFWebRepository/static/media/lambo_aven.9d8f466fc9fdfcb0e457.jpg",
+    "static/media/maserati_ghibli.jpg": "/RoyaltyCarFWebRepository/static/media/maserati_ghibli.1a5a4f6d86deb014d830.jpg",
+    "static/media/lambo_hura.jpg": "/RoyaltyCarFWebRepository/static/media/lambo_hura.97533333d82a6e7b13cd.jpg",
+    "static/media/ferarri_PortM.jpg": "/RoyaltyCarFWebRepository/static/media/ferarri_PortM.996a13528f803372e240.jpg",
+    "static/media/rr_phantom.jpg": "/RoyaltyCarFWebRepository/static/media/rr_phantom.d8dbc9832fa07679ea9f.jpg",
+    "static/media/Royalty.png": "/RoyaltyCarFWebRepository/static/media/Royalty.c0af4a7b8ebfd32c7ebd.png",
+    "index.html": "/RoyaltyCarFWebRepository/index.html",
+    "main.852d7aac.css.map": "/RoyaltyCarFWebRepository/static/css/main.852d7aac.css.map",
+    "main.bc956369.js.map": "/RoyaltyCarFWebRepository/static/js/main.bc956369.js.map",
+    "787.8bfdd6c0.chunk.js.map": "/RoyaltyCarFWebRepository/static/js/787.8bfdd6c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.852d7aac.css",
+    "static/js/main.bc956369.js"
+  ]
+}
