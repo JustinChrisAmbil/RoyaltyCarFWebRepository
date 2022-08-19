@@ -45,13 +45,7 @@
     
   }
   
-  input::placeholder, {
-    font-weight: bold;
-    color: black;
-    font-family: 
-    Arial, Helvetica, sans-serif;
-  }
-  
+
   form input:focus,
   textarea:focus {
     outline: none;
